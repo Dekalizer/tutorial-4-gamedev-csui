@@ -74,3 +74,4 @@ anims/Walk = SubResource( 4 )
 
 [node name="Camera2D" type="Camera2D" parent="."]
 current = true
+smoothing_enabled = true
